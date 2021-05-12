@@ -15,7 +15,7 @@ def third_element(new_array)
 end
 
 def last_element(new_array)
-  new_array.last
+  new_array[-1]
 end
 
 def first_element_with_array_methods(new_array)
