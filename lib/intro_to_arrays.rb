@@ -27,5 +27,5 @@ def last_element_with_array_methods(new_array)
 end
 
 def length_of_array(new_array)
-  new_array.inspect
+  new_array.count
 end
