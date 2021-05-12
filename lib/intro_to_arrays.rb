@@ -21,3 +21,7 @@ end
 def first_element_with_array_methods(new_array)
   new_array.first
 end
+
+def last_element_with_array_methods(new_array)
+  new_array.last
+end
